@@ -1,0 +1,23 @@
+{
+  "name": "format-money2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioHernanCabrera/format-money2.git"
+  },
+  "keywords": [
+    "format",
+    "money"
+  ],
+  "author": "Mauricio Hernan Cabrera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauricioHernanCabrera/format-money2/issues"
+  },
+  "homepage": "https://github.com/MauricioHernanCabrera/format-money2#readme"
+}
